@@ -8,6 +8,8 @@ import asyncio
 
 aternos_client = Client()
 
+TOKEN = ENTER_YOUR_BOT_TOKEN
+
 user = ENTER_YOUR_USERNAME
 passw = ENTER_YOUR PASSWORD
 #hashpassw = ENTER_YOUR_MD5_HASHED_PASSWORD
@@ -113,7 +115,5 @@ async def chat(interaction: discord.Interaction):
     await interaction.response.send_message(
         f"Server's IP address is `{servadr}`. You can join the server from both, Bedrock Edition and Java Edition using the same IP address.")
 
-
-TOKEN = ENTER_YOUR_BOT_TOKEN
 
 bot.run(TOKEN)
