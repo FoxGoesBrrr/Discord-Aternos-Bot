@@ -1,3 +1,7 @@
+# Hey!!
+
+## Introduction
+
 Welcome to the official repository of my Discord bot! I'm a solo developer who created this bot to simplify Aternos Minecraft server management right from your Discord server. As a fellow Minecraft enthusiast, I know how important it is to have a hassle-free experience when it comes to running your server.
 
 🚀 **Features**:
@@ -28,4 +32,27 @@ As a solo developer, I'm always open to community contributions! If you have any
 
 🚀 Take charge of your Aternos Minecraft server using my Discord bot. Let's embark on an exciting server management journey! 🎉
 
-And als, this is a prototype and the bot is highly inefficient with the resources as of now... But works. 👍
+And also, this is a prototype and the bot is highly inefficient with the resources as of now... But works. 👍
+
+## Setup
+
+Make sure you have...
+
+* Latest version of python
+* python-aternos module (Can be installed by running `pip install python-aternos` in cmd)
+* subprocess module (Can be installed by running `pip install subprocess` in cmd)
+* discord.py module (Can be installed by running `pip install discord.py` in cmd)
+* Aternos username and password (or ATERNOS_SESSION cookie)
+* Discord bot and its token
+* Your bot is in your server with `292057852928` as the permission integer
+
+Follow these steps to use the bot:
+
+1. Click on `<> Code` and click on  `Download zip`.
+2. After the zip file is downloaded, unzip the file.
+3. Open main.py use notepad (or whatever software) and change the values of `user`, `passw` and `TOKEN`.
+4. Open status.py and do the same. 
+5. Open cmd in that folder and run `py main.py`.
+
+Now you got your bot running in your server!
+
