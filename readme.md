@@ -51,7 +51,7 @@ Follow these steps to use the bot:
 1. Click on `<> Code` and click on  `Download zip`.
 2. After the zip file is downloaded, unzip the file.
 3. Open main.py use notepad (or whatever software) and change the values of `user`, `passw` and `TOKEN`.
-4. Open status.py and do the same. 
+4. Open status.py and do the same (there is no `TOKEN` in this file). 
 5. Open cmd in that folder and run `py main.py`.
 
 Now you got your bot running in your server!
