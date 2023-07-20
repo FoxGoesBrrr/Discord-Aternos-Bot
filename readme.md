@@ -56,3 +56,4 @@ Follow these steps to use the bot:
 
 Now you got your bot running in your server!
 
+# USE THIS AT YOUR OWN RISK
