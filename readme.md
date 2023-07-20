@@ -1,5 +1,5 @@
 # Hey!!
-
+## USE THIS AT YOUR OWN RISK
 ## Introduction
 
 Welcome to the official repository of my Discord bot! I'm a solo developer who created this bot to simplify Aternos Minecraft server management right from your Discord server. As a fellow Minecraft enthusiast, I know how important it is to have a hassle-free experience when it comes to running your server.
@@ -56,4 +56,4 @@ Follow these steps to use the bot:
 
 Now you got your bot running in your server!
 
-# USE THIS AT YOUR OWN RISK
+
